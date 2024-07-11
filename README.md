@@ -1,3 +1,3 @@
 # LLM_Text_to_Sql
 LLM Project - Text_to_Sql
-![](Image.jpg)
+![](image.jpg)
